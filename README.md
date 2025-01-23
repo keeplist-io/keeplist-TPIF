@@ -1,2 +1,2 @@
-# keeplist-TPIF
-Thesis and research on a decentralized identity verification platform, exploring the technological, ethical, and practical aspects of decentralized identity solutions.
+# Decentralized Identity Verification Thesis
+Welcome to the repository for Michael Deebs thesis on Decentralized Identity Verification. This research delves into the potential of decentralized identity solutions, focusing on their application within Keeplist and the broader landscape of digital identity management. It covers technical methodologies, architectural frameworks, and considerations around security, privacy, and user experience.
