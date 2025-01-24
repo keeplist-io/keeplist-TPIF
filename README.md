@@ -14,6 +14,9 @@ Disinformation is one of the most destabilizing tools in the modern era, used fo
 
 **Artificial amplification**—where bots, fake accounts, and AI-generated content simulate organic human activity—has compounded the problem, eroding public trust in information and making anonymity synonymous with inauthenticity.
 
+![Alt Text](./src_slides/deeb-2023-002.jpeg)
+
+
 ### **The Solution**
 The **Tiered Privacy and Identity Verification Framework (TPIF)** aims to mitigate these issues by:
 1. Enabling **optional digital identity verification** while preserving privacy through advanced cryptographic methods (e.g., Zero-Knowledge Proofs, Homomorphic Encryption).
