@@ -39,7 +39,16 @@ This approach is not about perfection—it’s about harm reduction. By raising 
 
 ## 🛠️ **How to Access**
 
+
+
 ### 📜 **Documents**
+
+#### White Paper (03/24/2025)
+- [PDF Version](/documents/tiered-privacy-white-paper-3-24-2025.pdf)
+- [Markdown Version](/documents/tiered-privacy-white-paper-3-24-2025.md)
+- [Google Docs (Commenting Enabled)](https://docs.google.com/document/d/1kbegIwYDMV5HPNK9WCcTO8SkxNE-5e5t6NhdCoAOO5Q/edit?usp=sharing)
+
+#### Initial Publication Documents (01/31/2025)
 - [PDF Version](/documents/tiered-privacy-keeplist-deeb-2025.pdf)
 - [Markdown Version](/documents/tiered-privacy-keeplist-deeb-2025.md)
 - [Google Docs (Commenting Enabled)](https://docs.google.com/document/d/1_cY07HppjdYDbIvaDpfCnhPvB6B5BLl7D-HtTefz-jQ/edit?usp=sharing)
